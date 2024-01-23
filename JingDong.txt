@@ -1,3 +1,4 @@
+payload:
   - '1huizhan.com'
   - '3.cn'
   - '300hu.com'
